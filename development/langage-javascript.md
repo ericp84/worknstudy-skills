@@ -13,7 +13,7 @@
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 <!-- ** je déclare une fonction acceptant 2 paramètres (octets et bits) ** -->
 
@@ -52,13 +52,13 @@
 
     toggleBits([12, 0, 128, 255, 1], [0, 1, 1, 0, 1]);
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
 [lien github] https://github.com/ericp84/breaking-News
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
 
 [lien du projet] https://ticettac-eric.herokuapp.com/signin
 
