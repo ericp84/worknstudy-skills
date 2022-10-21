@@ -13,7 +13,7 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
 ```javascript
 // this function takes a path to a .md file of the host system and write the HTML version of this file
@@ -21,9 +21,9 @@
 const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github] https://github.com/ericp84/wilder-back-nodeTS
 
 Description :
 
@@ -33,16 +33,17 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
 Description :
+dans la conception d'un WMS (warehouse management software) le back à été réalisé en Node Js
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- https://nodejs.org/en/
+- doc officielle node js
 
 ## 🚧 Je franchis les obstacles
 
